@@ -19,9 +19,7 @@ const Footer = () => {
             <ul className="space-y-2 text-sm">
               <li>conciergerie.moraya@gmail.com</li>
               <li className="flex items-center justify-center md:justify-start gap-2">
-                <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-green-500 text-white text-xs font-semibold">
-                  W
-                </span>
+                <i class="fa-brands fa-whatsapp"></i>
                 <span><b>+33 6 20 81 51 30</b>   <b>+33 6 14 06 03 81</b></span>
               </li>
               <li className="flex items-center justify-center md:justify-start gap-2">
