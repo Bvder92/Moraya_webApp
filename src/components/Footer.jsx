@@ -17,12 +17,12 @@ const Footer = () => {
           <div className="text-center md:text-left">
             <h4 className="font-semibold text-white mb-4">Contact</h4>
             <ul className="space-y-2 text-sm">
-              <li>contact@conciergerie-luxe.ma</li>
+              <li>conciergerie.moraya@gmail.com</li>
               <li className="flex items-center justify-center md:justify-start gap-2">
                 <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-green-500 text-white text-xs font-semibold">
                   W
                 </span>
-                <span>WhatsApp Business</span>
+                <span><b>+33 6 20 81 51 30</b>   <b>+33 6 14 06 03 81</b></span>
               </li>
               <li className="flex items-center justify-center md:justify-start gap-2">
                 <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-pink-500 text-white text-xs font-semibold">
