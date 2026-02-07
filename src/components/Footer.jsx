@@ -23,19 +23,17 @@ const Footer = () => {
             <i className="fa-regular fa-envelope text-lg"></i>
             <span>conciergerie.moraya@gmail.com</span>
             </a>
-
-              
               <li className="flex items-center justify-center md:justify-start gap-2">
-                <i class="fa-brands fa-whatsapp text-green-500 text-lg"></i>
+                <i className="fa-brands fa-whatsapp text-green-500 text-lg"></i>
                 <span className="flex gap-4"><b>+33 6 20 81 51 30</b>   <b>+33 6 14 06 03 81</b></span>
               </li>
-              <a href="https://www.instagram.com/moraya.ma?igsh=MTh6Nzlsand2c3B4NA%3D%3D&utm_source=qr"
+              
+              <a 
+                href="https://www.instagram.com/moraya.ma?igsh=MTh6Nzlsand2c3B4NA%3D%3D&utm_source=qr"
                 className="flex items-center justify-center md:justify-start gap-2 hover:text-red-400 transition">
-                <i className="fa-brands fa-instagram text-pink-500 text-lg">
-                </i>
+                <i className="fa-brands fa-instagram text-pink-500 text-lg"></i>
                 <span>@moraya.ma</span>
               </a>
-              </li>
             </ul>
           </div>
         </div>
