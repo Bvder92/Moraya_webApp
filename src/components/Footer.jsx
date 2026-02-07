@@ -25,7 +25,7 @@ const Footer = () => {
                 <span><b>+33 6 20 81 51 30</b>   <b>+33 6 14 06 03 81</b></span>
               </li>
               <li className="flex items-center justify-center md:justify-start gap-2">
-                <i class="fa-brands fa-instagram">
+                <i className="fa-brands fa-instagram text-pink-500 text-lg">
                 </i>
                 <span>@moraya.ma</span>
               </li>
