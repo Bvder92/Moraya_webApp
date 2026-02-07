@@ -17,7 +17,14 @@ const Footer = () => {
           <div className="text-center md:text-left">
             <h4 className="font-semibold text-white mb-4">Contact</h4>
             <ul className="space-y-2 text-sm">
-              <li>conciergerie.moraya@gmail.com</li>
+             <a
+              href="mailto:conciergerie.moraya@gmail.com"
+              className="flex items-center gap-2 hover:text-red-400 transition">
+            <i className="fa-regular fa-envelope text-lg"></i>
+            <span>conciergerie.moraya@gmail.com</span>
+            </a>
+
+              
               <li className="flex items-center justify-center md:justify-start gap-2">
                 <i class="fa-brands fa-whatsapp text-green-500 text-lg"></i>
                 <span className="flex gap-4"><b>+33 6 20 81 51 30</b>   <b>+33 6 14 06 03 81</b></span>
