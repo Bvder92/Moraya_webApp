@@ -25,7 +25,7 @@ const Footer = () => {
             </a>
               <li className="flex items-center justify-center md:justify-start gap-2">
                 <i className="fa-brands fa-whatsapp text-green-500 text-lg"></i>
-                <span className="flex gap-4"><b>+33 6 20 81 51 30</b>   <b>+33 6 14 06 03 81</b></span>
+                <span><b>+33 7 45 74 90 56</b></span>
               </li>
               
               <a 
